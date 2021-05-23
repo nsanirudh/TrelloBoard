@@ -19,3 +19,11 @@ App state is persisted in browser storage using library localForage.
 
 ## Libraries used
 react, react-beautiful-dnd, styled-components, localforage, rxjs
+
+```buildoutcfg
+npm install react-scripts
+
+npm install
+
+npm start
+```
