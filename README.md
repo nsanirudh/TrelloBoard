@@ -27,3 +27,11 @@ npm install
 
 npm start
 ```
+
+
+To-do Changes
+```
+Change font
+
+change github logo
+```
